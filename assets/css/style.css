@@ -1,7 +1,7 @@
 body {
     background-color: #141414 !important;
 }
-main{
+.main1{
    margin: 2vw !important;
 }
 footer {
@@ -24,4 +24,24 @@ footer {
 }
 #ul{
     display: ruby !important;
+}
+
+/*------------------Account--------------------*/
+
+.titolo {
+    font-size: 4.0em;
+}
+#avatar2 {
+    width: 10vw;
+}
+#input {
+    width: 500px;
+    height: 50px;
+}
+#input:focus{
+    background-color: whitesmoke !important;
+}
+#main2 {
+    margin-left: 40%;
+    margin-right: 38%;
 }
